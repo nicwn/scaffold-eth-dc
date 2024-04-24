@@ -5,6 +5,9 @@
   <a href="https://scaffoldeth.io">Website</a>
 </h4>
 
+(Forked in order to automate devcontainer creation and installation. scaffold-eth-2 has been added
+as remote upstream.)
+
 🧪 An open-source, up-to-date toolkit for building decentralized applications (dapps) on the Ethereum blockchain. It's designed to make it easier for developers to create and deploy smart contracts and build user interfaces that interact with those contracts.
 
 ⚙️ Built using NextJS, RainbowKit, Hardhat, Wagmi, Viem, and Typescript.
